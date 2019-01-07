@@ -9,7 +9,7 @@
 title: Fermilab Coding Club
 email: beau@fnal.gov
 description: >- # this means to ignore newlines until "baseurl:"
-  Blog style site for keeping Fermilab Coding Club member up to date
+  Blog style site for keeping Fermilab Coding Club members up to date
   on meetings and topics.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fermilabcoding.club" # the base hostname & protocol for your site, e.g. http://example.com
