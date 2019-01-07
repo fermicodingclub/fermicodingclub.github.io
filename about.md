@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The Fermilab Coding Club was formed with the intention of sharing knowledge a tools between the many talents, backgrounds, and varied expertise we have at the lab.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+We meet once a week on Tuesdays.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+It is essential for Coding Club to be collaborative. We learn best from watching others. Being able to ask questions in the moment and see how others respond to a live coding challenge can really inspire confidence.
 
+Each week, someone shares an introduction into something they are interested in or a detailed explainer of something they are expert in.
 
-[jekyll-organization]: https://github.com/jekyll
+Starting in 2019 we are trying longer form format where we take a deep dive into a project and each week we work together to complete a small piece of the larger project.
