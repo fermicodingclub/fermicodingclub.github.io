@@ -42,3 +42,11 @@ Let's imagine that you have many devices that you want to read, like a [garduino
 We can combine the these two worlds to get the best of both. Arduino as the interface to your electronics and you Raspberry Pi as your interface to your Arduino. The Raspberry Pi could be doing calculations, notifications, database storage, or a web-server all for monitoring the devices attached to the Arduino.
 
 More in this vein: [https://interestingengineering.com/raspberry-pi-and-arduino-whats-the-difference-and-which-is-best-for-your-project](https://interestingengineering.com/raspberry-pi-and-arduino-whats-the-difference-and-which-is-best-for-your-project)
+
+# Meeting notes
+
+Manolis shared his awesome presentation on using a Raspberry Pi to measure alignment inside the g-2 ring!
+
+[Raspberry Pi used in aligning g-2 ring](/assets/presentations/RaspberryPig-2.pdf)
+
+Afterward we played with a simple example of outputting Arduino state on the USB serial interface and using Python to push that to a WebSocket that it can be read in the browser. You can find that code [here](https://github.com/fermicodingclub/arduino-pi-serial-websockets).
