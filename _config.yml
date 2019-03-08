@@ -13,6 +13,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   on meetings and topics.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fermilabcoding.club" # the base hostname & protocol for your site, e.g. http://example.com
+list_title: "Next Meeting - March 12th in the Black Hole (WH2NW)"
 
 # Build settings
 markdown: kramdown
