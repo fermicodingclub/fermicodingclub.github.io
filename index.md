@@ -3,5 +3,5 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-list_title: "Next Meeting - March 26th in the Racetrack (WH7CO)"
+list_title: "Next Meeting - April 2nd in the Disappearance Room (WH13SW)"
 ---
